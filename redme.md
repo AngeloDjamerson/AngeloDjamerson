@@ -15,22 +15,6 @@
 
 ---
 
-## 📌 Projetos em Destaque
-
-### 🔹 Sistema de Cadastro de Usuários
-📄 CRUD completo com validação  
-🔧 Tecnologias: HTML, CSS, JavaScript  
-🔗 Repositório: https://github.com/seu-usuario/nome-do-repo
-
----
-
-### 🔹 API REST em Python
-📄 API com Flask para gerenciamento de dados  
-🔧 Tecnologias: Python, Flask, SQLite  
-🔗 Repositório: https://github.com/seu-usuario/nome-do-repo
-
----
-
 ## 📈 Em Aprendizado
 - Estrutura de Dados
 - Orientação a Objetos
